@@ -3,7 +3,7 @@
 In this page you'll find personal Deep Learning projects.
 Each project is made using the skills I've acquired from 'TensorFlow Developer Certificate in 2022: Zero to Mastery' course.
 
-## Deep Learning Projects
+## Computer Vision Projects
 
 | Number | Project Name | Description |
 | ----- |  ----- |  ----- |
