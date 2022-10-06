@@ -15,3 +15,9 @@ Each project is made using the skills I've acquired from 'TensorFlow Developer C
 | 01 | [MNIST Classification](https://github.com/EladAriel/Tensorflow/blob/main/MNIST_Classification.ipynb) | The purpose of the project is to figure out the relationship between the images pixel values and their labels. |
 | 02 | [uc_merced CNN Computer Vision](https://github.com/EladAriel/Tensorflow/blob/main/Tensorflow_uc_merced_dataset_CNN_Computer_Vision.ipynb) | The purpose of the project is to detect pattern in visual data using Convolutional Neural Networks. |
 | 03 | [CIFAR-10 Classification Using Mixed Precision Training](https://github.com/EladAriel/Tensorflow/blob/main/CIFAR_10_Classification_with_Tensorflow.ipynb) | The purpose of the project is to detect pattern in visual data using Transfer Learning and Mixed Precision training. |
+
+## Natural Language Processing Projects
+
+| Number | Project Name | Description |
+| ----- |  ----- |  ----- |
+| 04 | [# AG News Subset Text Classification](https://github.com/EladAriel/Tensorflow/blob/main/ag_news_subset_NLP.ipynb) | The purpose of the project is to organize AG News articles by four topics: 'World', 'Sports', 'Business' and 'Sci/Tech'. |
