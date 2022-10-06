@@ -20,4 +20,4 @@ Each project is made using the skills I've acquired from 'TensorFlow Developer C
 
 | Number | Project Name | Description |
 | ----- |  ----- |  ----- |
-| 04 | [# AG News Subset Text Classification](https://github.com/EladAriel/Tensorflow/blob/main/ag_news_subset_NLP.ipynb) | The purpose of the project is to organize AG News articles by four topics: 'World', 'Sports', 'Business' and 'Sci/Tech'. |
+| 04 | [AG News Subset Text Classification](https://github.com/EladAriel/Tensorflow/blob/main/ag_news_subset_NLP.ipynb) | The purpose of the project is to organize AG News articles by four topics: 'World', 'Sports', 'Business' and 'Sci/Tech'. |
